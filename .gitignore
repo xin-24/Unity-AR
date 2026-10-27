@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Go
+backend/data/
+*.db
+*.db-shm
+*.db-wal
+
+# React
+node_modules/
+dist/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE
+.idea/
+.vscode/
